@@ -1,0 +1,88 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.header-title{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+li{
+    list-style: none;
+    margin:63px 20px 0px 0px;
+}
+.head-b{
+    display:flex;
+    
+    color: var(--dark-02, #424242);
+text-align: center;
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+padding:50px;
+margin-right:100px;
+}
+.gear{
+    color: var(--dark-01, #131313);
+text-align: center;
+font-family: Work Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 700;
+margin:50px 0px 0px 180px;
+}
+header{
+    width: 100%;
+height:822px;
+background: rgba(255, 144, 14, 0.10);
+
+}
+.hb-container{
+   
+    align-items: center;
+    margin-left: 100px;
+}
+.hb-title{
+    width: 468px;
+    color: var(--dark-01, #131313);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    margin:5px 300px;
+}
+.hb-para{
+    width: 468px;
+    color: var(--dark-03, #727272);
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin:5px 300px;
+}
+.btn-primary{
+    width: 80px;
+height: 34px;
+border-radius: 8px;
+background-color: #FF900E;
+border: none;
+margin:20px 450px;
+}
+.btn-txt{
+    color: #FFF;
+text-align: center;
+font-family: Work Sans;
+font-size: 10px;
+font-style: normal;
+font-weight: 600;
+}
+.banner img{
+    width: 80%;
+height: 300px;
+border-radius: 8px;
+margin-left: 120px;
+
+}
